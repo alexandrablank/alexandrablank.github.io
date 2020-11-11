@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang=“en”>
+
+<head>
+
+ <title> Alex Blank’s LIS351 Website</title>
+
+</head>
+
+<body>
+
+ <h1> Here are some of the best pictures I have taken!</h1>
+   <p> I truly enjoy taking photos, it is a passion of mine. Although I do not have any professional experience, it is just something I do for fun. </p>
+ <h2> All taken on an iPhone! World travel map: <a                                        href= "https://geology.com/world/world-map.shtml" target=_blank> https://geology.com/world/world-map.shtml</a> </h2>
+
+ <h2> Places I have Been</h2>
+
+ <ul>
+   <li>Big Sky, Montana</li>
+   <li>London, UK</li>
+   <li>Maui, Hawaii</li>
+   <li>Montego Bay, Jamaica</li>
+   <Playa Del Carmen, Mexico</li>
+ </ul>
+
+<img src="IMG_0656.jpg" alt="Photo of Mountains in Big Sky, MT." width="350px">
+</body>
+
+</html>
